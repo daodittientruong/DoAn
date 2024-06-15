@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\DoAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97820250-AD3B-431F-AC08-BD3B3E57AD65}|DoAn\\DoAn.csproj|c:\\users\\admin\\source\\repos\\doan\\doan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97820250-AD3B-431F-AC08-BD3B3E57AD65}|DoAn\\DoAn.csproj|solutionrelative:doan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97820250-AD3B-431F-AC08-BD3B3E57AD65}|DoAn\\DoAn.csproj|c:\\users\\admin\\source\\repos\\doan\\doan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97820250-AD3B-431F-AC08-BD3B3E57AD65}|DoAn\\DoAn.csproj|solutionrelative:doan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97820250-AD3B-431F-AC08-BD3B3E57AD65}|DoAn\\DoAn.csproj|c:\\users\\admin\\source\\repos\\doan\\doan\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97820250-AD3B-431F-AC08-BD3B3E57AD65}|DoAn\\DoAn.csproj|solutionrelative:doan\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6625A4DB-47D4-4EAB-9ED3-31E79C16BF13}|Inrastructure\\Infrastructure.csproj|c:\\users\\admin\\source\\repos\\doan\\inrastructure\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6625A4DB-47D4-4EAB-9ED3-31E79C16BF13}|Inrastructure\\Infrastructure.csproj|solutionrelative:inrastructure\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\doan\\application\\implementservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|solutionrelative:application\\implementservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E58041-8F09-4D34-8B09-ACEBBF8C39BD}|Domain\\Domain.csproj|c:\\users\\admin\\source\\repos\\doan\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E58041-8F09-4D34-8B09-ACEBBF8C39BD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\doan\\application\\handle\\handleemail\\handlefile\\handleuploadfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|solutionrelative:application\\handle\\handleemail\\handlefile\\handleuploadfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6625A4DB-47D4-4EAB-9ED3-31E79C16BF13}|Inrastructure\\Infrastructure.csproj|c:\\users\\admin\\source\\repos\\doan\\inrastructure\\implementripositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6625A4DB-47D4-4EAB-9ED3-31E79C16BF13}|Inrastructure\\Infrastructure.csproj|solutionrelative:inrastructure\\implementripositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E58041-8F09-4D34-8B09-ACEBBF8C39BD}|Domain\\Domain.csproj|c:\\users\\admin\\source\\repos\\doan\\domain\\interfacerepositories\\iuserrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E58041-8F09-4D34-8B09-ACEBBF8C39BD}|Domain\\Domain.csproj|solutionrelative:domain\\interfacerepositories\\iuserrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\doan\\application\\payloads\\responsemodels\\datausers\\dataresponseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|solutionrelative:application\\payloads\\responsemodels\\datausers\\dataresponseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\doan\\application\\payloads\\response\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|solutionrelative:application\\payloads\\response\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\doan\\application\\payloads\\requestmodels\\userrequests\\request_updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|solutionrelative:application\\payloads\\requestmodels\\userrequests\\request_updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\doan\\application\\payloads\\requestmodels\\userrequests\\request_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|solutionrelative:application\\payloads\\requestmodels\\userrequests\\request_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\doan\\application\\payloads\\requestmodels\\userrequests\\request_createnewpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|solutionrelative:application\\payloads\\requestmodels\\userrequests\\request_createnewpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\doan\\application\\payloads\\requestmodels\\userrequests\\request_changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|solutionrelative:application\\payloads\\requestmodels\\userrequests\\request_changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\doan\\application\\payloads\\mappers\\userconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|solutionrelative:application\\payloads\\mappers\\userconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\doan\\application\\interfaceservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|solutionrelative:application\\interfaceservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\doan\\application\\interfaceservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|solutionrelative:application\\interfaceservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\doan\\application\\implementservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|solutionrelative:application\\implementservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\doan\\application\\implementservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12FEE59-6745-4712-8B18-C899C3BF7369}|Application\\Application.csproj|solutionrelative:application\\implementservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6625A4DB-47D4-4EAB-9ED3-31E79C16BF13}|Inrastructure\\Infrastructure.csproj|c:\\users\\admin\\source\\repos\\doan\\inrastructure\\migrations\\20240613095818_upp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6625A4DB-47D4-4EAB-9ED3-31E79C16BF13}|Inrastructure\\Infrastructure.csproj|solutionrelative:inrastructure\\migrations\\20240613095818_upp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\DoAn\\Program.cs",
+              "RelativeDocumentMoniker": "DoAn\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\DoAn\\Program.cs",
+              "RelativeToolTip": "DoAn\\Program.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:46:49.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Inrastructure\\ImplementRipositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Inrastructure\\ImplementRipositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Inrastructure\\ImplementRipositories\\UserRepository.cs",
+              "RelativeToolTip": "Inrastructure\\ImplementRipositories\\UserRepository.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAIwIMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:52:00.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\DoAn\\appsettings.json",
+              "RelativeDocumentMoniker": "DoAn\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\DoAn\\appsettings.json",
+              "RelativeToolTip": "DoAn\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T10:47:53.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HandleUploadFile.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Handle\\HandleEmail\\HandleFile\\HandleUploadFile.cs",
+              "RelativeDocumentMoniker": "Application\\Handle\\HandleEmail\\HandleFile\\HandleUploadFile.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Handle\\HandleEmail\\HandleFile\\HandleUploadFile.cs",
+              "RelativeToolTip": "Application\\Handle\\HandleEmail\\HandleFile\\HandleUploadFile.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:58:57.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:10:05.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\ImplementService\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\ImplementService\\AuthService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\ImplementService\\AuthService.cs",
+              "RelativeToolTip": "Application\\ImplementService\\AuthService.cs",
+              "ViewState": "AQIAAJ8BAAAAAAAAAAAgwLcBAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:28:26.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\DoAn\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DoAn\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\DoAn\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DoAn\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:46:45.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Inrastructure\\DataContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Inrastructure\\DataContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Inrastructure\\DataContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Inrastructure\\DataContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:17:27.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataResponseUser.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Payloads\\ResponseModels\\DataUsers\\DataResponseUser.cs",
+              "RelativeDocumentMoniker": "Application\\Payloads\\ResponseModels\\DataUsers\\DataResponseUser.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Payloads\\ResponseModels\\DataUsers\\DataResponseUser.cs",
+              "RelativeToolTip": "Application\\Payloads\\ResponseModels\\DataUsers\\DataResponseUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:33:43.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseMessage.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Payloads\\Response\\ResponseMessage.cs",
+              "RelativeDocumentMoniker": "Application\\Payloads\\Response\\ResponseMessage.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Payloads\\Response\\ResponseMessage.cs",
+              "RelativeToolTip": "Application\\Payloads\\Response\\ResponseMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:08:39.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Request_Register.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Payloads\\RequestModels\\UserRequests\\Request_Register.cs",
+              "RelativeDocumentMoniker": "Application\\Payloads\\RequestModels\\UserRequests\\Request_Register.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Payloads\\RequestModels\\UserRequests\\Request_Register.cs",
+              "RelativeToolTip": "Application\\Payloads\\RequestModels\\UserRequests\\Request_Register.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:33:28.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRespository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Domain\\InterfaceRepositories\\IUserRespository.cs",
+              "RelativeDocumentMoniker": "Domain\\InterfaceRepositories\\IUserRespository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Domain\\InterfaceRepositories\\IUserRespository.cs",
+              "RelativeToolTip": "Domain\\InterfaceRepositories\\IUserRespository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:50:40.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Request_CreateNewPassword.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Payloads\\RequestModels\\UserRequests\\Request_CreateNewPassword.cs",
+              "RelativeDocumentMoniker": "Application\\Payloads\\RequestModels\\UserRequests\\Request_CreateNewPassword.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Payloads\\RequestModels\\UserRequests\\Request_CreateNewPassword.cs",
+              "RelativeToolTip": "Application\\Payloads\\RequestModels\\UserRequests\\Request_CreateNewPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:24:57.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Request_ChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Payloads\\RequestModels\\UserRequests\\Request_ChangePassword.cs",
+              "RelativeDocumentMoniker": "Application\\Payloads\\RequestModels\\UserRequests\\Request_ChangePassword.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Payloads\\RequestModels\\UserRequests\\Request_ChangePassword.cs",
+              "RelativeToolTip": "Application\\Payloads\\RequestModels\\UserRequests\\Request_ChangePassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:25:17.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserConverter.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Payloads\\Mappers\\UserConverter.cs",
+              "RelativeDocumentMoniker": "Application\\Payloads\\Mappers\\UserConverter.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Payloads\\Mappers\\UserConverter.cs",
+              "RelativeToolTip": "Application\\Payloads\\Mappers\\UserConverter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:42:26.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Request_UpdateUser.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Payloads\\RequestModels\\UserRequests\\Request_UpdateUser.cs",
+              "RelativeDocumentMoniker": "Application\\Payloads\\RequestModels\\UserRequests\\Request_UpdateUser.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\Payloads\\RequestModels\\UserRequests\\Request_UpdateUser.cs",
+              "RelativeToolTip": "Application\\Payloads\\RequestModels\\UserRequests\\Request_UpdateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:09:53.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\InterfaceService\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\InterfaceService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\InterfaceService\\IUserService.cs",
+              "RelativeToolTip": "Application\\InterfaceService\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:08:08.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\InterfaceService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\InterfaceService\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\InterfaceService\\IAuthService.cs",
+              "RelativeToolTip": "Application\\InterfaceService\\IAuthService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:22:40.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\ImplementService\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\ImplementService\\UserService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\ImplementService\\UserService.cs",
+              "RelativeToolTip": "Application\\ImplementService\\UserService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:12:57.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\ImplementService\\EmailService.cs",
+              "RelativeDocumentMoniker": "Application\\ImplementService\\EmailService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Application\\ImplementService\\EmailService.cs",
+              "RelativeToolTip": "Application\\ImplementService\\EmailService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:42:28.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240613095818_upp.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DoAn\\Inrastructure\\Migrations\\20240613095818_upp.cs",
+              "RelativeDocumentMoniker": "Inrastructure\\Migrations\\20240613095818_upp.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DoAn\\Inrastructure\\Migrations\\20240613095818_upp.cs",
+              "RelativeToolTip": "Inrastructure\\Migrations\\20240613095818_upp.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:58:18.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
